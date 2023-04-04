@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "54453482014",
+    "project_id": "mymobileauth-c7436",
+    "storage_bucket": "mymobileauth-c7436.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54453482014:android:e01f1afd5bbb91d6fc340f",
+        "android_client_info": {
+          "package_name": "com.example.mob_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54453482014-du018pcgh173h26bp340k2n56kjojum5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mob_auth",
+            "certificate_hash": "81177167e4c37b850ff26461dd6cf68da3e3d48a"
+          }
+        },
+        {
+          "client_id": "54453482014-j08r8jm2mk6i8dvp799hre6pmd8mjgtq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClmJ9dI9zZG_WJ8bijre6fWst6dJypiAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54453482014-j08r8jm2mk6i8dvp799hre6pmd8mjgtq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "54453482014-iu1m8qt73keutr6m9m54huibbuiajmmr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mobAuth"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54453482014:android:fcd137def5a91084fc340f",
+        "android_client_info": {
+          "package_name": "com.example.whats_app_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54453482014-j08r8jm2mk6i8dvp799hre6pmd8mjgtq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClmJ9dI9zZG_WJ8bijre6fWst6dJypiAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54453482014-j08r8jm2mk6i8dvp799hre6pmd8mjgtq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "54453482014-iu1m8qt73keutr6m9m54huibbuiajmmr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mobAuth"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
